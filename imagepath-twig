@@ -1,0 +1,1 @@
+<img src="{{ app.request.getSchemeAndHttpHost() ~ asset('bundles/coffeefuelledresource/image/wellbeing_logo.png') }}" class="img-thumbnail" style="width:250px">
